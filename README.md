@@ -322,6 +322,6 @@ smartpath/
 
 ## 📜 License
 
-This project was developed for the **Computer Vision Challenge Round 1** under the Centre of Excellence in Autonomous Mobility, in collaboration with HARMAN and VTS, Department of Electronics & Communication Engineering.
+This project was developed for the **Computer Vision Challenge Round 1** 
 
 For academic and evaluation purposes only.
